@@ -32,7 +32,6 @@ Traceback (most recent call last):
 NameError: name 'capitalise' is not defined
 >>> strM.capitalize()
 'Python beginner tutorial'
->>> KeyboardInterrupt
 >>> strM.count("t")
 3
 >>> strM.replace("Python" , "Machine Learning")
